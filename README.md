@@ -4,10 +4,6 @@
 > 
 - https://app.notion.com/p/4-_-_-3933de5d54d280ca9a52f21417609b77?source=copy_link
 
-> PDF에서 텍스트를 추출해서 링크를 복사하면 복사가 완벽이 안 되는 문제가 있는데, 깃허브에 노션 링크도 같이 첨부하겠습니다. 코드는 AI가 작성하였지만, 노션과 주석은 제가 일일히 작성하면서 공부했습니다. 좋게 봐주시면 감사하겠습니다.
-> 
-- https://github.com/kwung0206/WHS-Homework/tree/main/pcap-programming
-
 #### 배경지식 : PCAP API
 
 - C언어에서는 libpcap 라이브러리를 사용한다. C언에서는 다음과 같이 선언하면 된다.
